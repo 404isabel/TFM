@@ -1,5 +1,5 @@
 
-Identificación de tejido metastástico en exploraciones histopatológicas de secciones de ganglios linfáticos:
+Identificación de tejido metastásico en exploraciones histopatológicas de secciones de ganglios linfáticos:
 Basado en el dataset público del reto:
 https://www.kaggle.com/c/histopathologic-cancer-detection/overview
 
